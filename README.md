@@ -98,6 +98,7 @@ This file contains task progress, project updates, and completion records.
 
 ### project repository link :
 
+https://github.com/sidraah/devops-project.git
 
 ## Learning Outcomes
 Through this project, I learned:
